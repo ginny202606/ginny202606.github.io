@@ -21,7 +21,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ginny"
-description              : "环境微生物学研究/读书笔记/生活随想/业余爱好."
+description              : "环境微生物学研究/读书笔记/爱好分享."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ginny"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "环境微生物学研究/读书笔记/爱好分享."
+  location         : "Nanjing"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
